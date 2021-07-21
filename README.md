@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, je suis sparte</h1>
+<h1 align="center">Salut 👋, je suis sparta</h1>
 <h3 align="center">Un passionné par la cybersécurité et le développement web</h3>
 
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=sparta40700&label=Profile%20views&color=0e75b6&style=flat" alt="sparta40700" /> </p>
