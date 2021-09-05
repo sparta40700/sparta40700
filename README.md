@@ -3,7 +3,7 @@
 
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=sparta40700&label=Profile%20views&color=0e75b6&style=flat" alt="sparta40700" /> </p>
 
-- 🔭 Je travaille actuellement sur [oh my food]( https://sparta40700.github.io/OMF/)
+- 🔭 Je travaille actuellement sur [oh my food]( https://sparta40700.github.io/lachouetteagence/)
 
 - 🌱 J'apprends actuellement **sur OpenClassRoom**
 
